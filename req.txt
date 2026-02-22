@@ -1,1 +1,6 @@
-langchain langchain-core langchain-community huggingface_hub langchain_huggingface
+pip install langchain langchain-community langchain-core
+pip install chromadb
+pip install pypdf
+pip install sentence-transformers
+pip install huggingface_hub
+pip install langchain_huggingface 
