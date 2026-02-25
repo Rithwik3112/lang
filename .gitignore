@@ -2,3 +2,4 @@ an/
 /data.pdf
 *.pdf
 /.gitignore
+/.gradio

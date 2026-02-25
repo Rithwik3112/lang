@@ -2,5 +2,5 @@ pip install langchain langchain-community langchain-core
 pip install chromadb
 pip install pypdf
 pip install sentence-transformers
-pip install huggingface_hub
 pip install langchain_huggingface 
+pip install gradio
