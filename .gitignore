@@ -2,4 +2,12 @@ an/
 /data.pdf
 *.pdf
 /.gitignore
-/.gradio
+gradio/
+/.vscode
+*.log
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
