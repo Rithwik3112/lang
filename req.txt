@@ -4,3 +4,6 @@ pip install pypdf
 pip install sentence-transformers
 pip install langchain_huggingface 
 pip install gradio
+
+
+
